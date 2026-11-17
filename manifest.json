@@ -1,0 +1,25 @@
+{
+  "name": "たび日本語 N5→N3 마스터",
+  "short_name": "たび日本語",
+  "description": "실전 일본 여행 회화 및 JLPT N5~N3 올인원 학습 웹앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1e1b4b",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "./nika.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
